@@ -28,7 +28,7 @@ Installation
 If you want to run the project locally on your Mac using Xcode:
 
 Clone the repository:
-git clone https://github.com/JeffersonPrensa/IOS-Abschlussprojekt.git
+https://github.com/JeffersonPrensa/IOS-Abschlussprojekt.git
 
 Open the project in Xcode: • Double-click the .xcodeproj file.
 
